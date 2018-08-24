@@ -2,7 +2,9 @@ body {
   padding-top: 100px;
   font-family: "Montserrat", sans-serif;
   font-smoothing: antialiased;
-  background-color:#c0b3c2;
+  background-image: url(../images/nice.jpeg);
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 h3 {
@@ -38,4 +40,16 @@ p {
   font-size: 16px;
   line-height: 1.5em;
   color: lighten(black,20%);
+}
+h5 {
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 10px;
+  text-transform:lowercase;
+  text-shadow: #1769aa;
+  color: #ab003c;
+  
+}
+h4{
+  color: #ab003c;
 }
