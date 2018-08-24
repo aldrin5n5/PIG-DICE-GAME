@@ -30,11 +30,11 @@ No known bugs.
 For comments or questions, please email aldrin5n5@gmail.com
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-jQuery JavaScript Library v3.3.1
-Bootstrap v3.3.7
+* HTML
+* CSS*
+* JavaScript
+* jQuery JavaScript Library v3.3.1
+* SBootstrap v3.3.7
 
 ## Link to project on Github Pages
 https://github.com/aldrin5n5/Pig-Dice-Game
