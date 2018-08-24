@@ -1,10 +1,11 @@
+##PIG DICE GAME
 A program where two users can play Pig dice against each other, 08.24.2018
 
 By aldrin5n5
-Description
+##Description
 This is a two player game of Pig dice. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold". The first player to score 100 or more points wins.
 
-Specifications
+##Specifications
 1. The program begins when a user selects the "Play" button on the web page.
 Example Input: Click/Press "Play"
 Example Output: Show the game user interface.
@@ -18,26 +19,26 @@ Example Output: Current Player's score for that turn is 2, and they can either h
 4. The first player to hit greater than or equal to 100 points wins.
 Example Input: The number of points a user has added to their Total Score reaches 100 or greater.
 Example Output: "Looks like we have a winner!"
-Setup/Installation Requirements
+##Setup/Installation Requirements
 Clone this repository
 If editing, open project directory in Code Editor of choice
 If viewing, open index.html in a web browser
-Known Bugs
+##Known Bugs
 No known bugs.
 
-Support and contact details
+##Support and contact details
 For comments or questions, please email aldrin5n5@gmail.com
 
-Technologies Used
+##Technologies Used
 HTML
 CSS
 JavaScript
 jQuery JavaScript Library v3.3.1
 Bootstrap v3.3.7
 
-Link to project on Github Pages
+##Link to project on Github Pages
 
-License
+##License
 This application is licensed under the MIT license
 
 Copyright (c) 2018 Aldrin Njuguna.
